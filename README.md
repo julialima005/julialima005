@@ -24,5 +24,7 @@ Meu interesse está em desenvolvimento Back-end e Arquitetura de Software. Quero
 - Aprender boas práticas de desenvolvimento de software.
 
 ## 📂 Projetos
+- [Amazônia: Brasil Verde](https://github.com/julialima005/amazonia-brasil-verde): site informativo desenvolvido com HTML e CSS.
+- [Dia das Crianças](https://github.com/julialima005/dia-das-criancas-bootstrap): site com Bootstrap, carrossel, cartões, modal e accordion.
+- [Cursos e Funcionários](https://github.com/julialima005/banco-dados-cursos-funcionarios): banco de dados com tabelas relacionadas e consultas SQL.
 
-Este perfil está sendo organizado para reunir meus projetos acadêmicos e registrar minha evolução durante a graduação.
