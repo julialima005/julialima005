@@ -4,6 +4,7 @@ Sou estudante de Engenharia de Software na UDF e estou construindo minha base em
 
 Meu interesse está em desenvolvimento Back-end e Arquitetura de Software. Quero aprofundar meus conhecimentos e aplicá-los em projetos que resolvam problemas reais.
 
+
 ## 💻 Tecnologias em estudo
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -16,6 +17,15 @@ Meu interesse está em desenvolvimento Back-end e Arquitetura de Software. Quero
 - *SQL:* criação de tabelas, relacionamentos e consultas.
 - *Git e GitHub:* versionamento e organização de projetos.
 
+
+## 🛠️ Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logoColor=white)
+![OneCompiler](https://img.shields.io/badge/OneCompiler-4053D6?style=flat&logoColor=white)
+
+
 ## 🎯 Meus objetivos
 
 - Fortalecer minha lógica de programação.
@@ -23,8 +33,11 @@ Meu interesse está em desenvolvimento Back-end e Arquitetura de Software. Quero
 - Desenvolver e documentar projetos acadêmicos.
 - Aprender boas práticas de desenvolvimento de software.
 
-## 📂 Projetos
-- [Amazônia: Brasil Verde](https://github.com/julialima005/amazonia-brasil-verde): site informativo desenvolvido com HTML e CSS.
-- [Dia das Crianças](https://github.com/julialima005/dia-das-criancas-bootstrap): site com Bootstrap, carrossel, cartões, modal e accordion.
-- [Cursos e Funcionários](https://github.com/julialima005/banco-dados-cursos-funcionarios): banco de dados com tabelas relacionadas e consultas SQL.
 
+## 📂 Projetos
+
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| [Amazônia: Brasil Verde](https://github.com/julialima005/amazonia-brasil-verde) | Site informativo sobre a Amazônia, com galeria de fotos. | HTML e CSS |
+| [Dia das Crianças](https://github.com/julialima005/dia-das-criancas-bootstrap) | Site com carrossel, cartões, modal e accordion. | HTML, CSS e Bootstrap |
+| [Cursos e Funcionários](https://github.com/julialima005/banco-dados-cursos-funcionarios) | Banco de dados com tabelas relacionadas e consultas de inscrições em cursos. | SQL e MySQL |
